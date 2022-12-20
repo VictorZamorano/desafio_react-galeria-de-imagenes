@@ -1,0 +1,20 @@
+body {
+	background-color: #1c315e;
+}
+hr,
+p,
+h3 {
+	color: #ccc;
+}
+body {
+	font-family: "Raleway", sans-serif;
+	font-family: "Roboto Condensed", sans-serif;
+	font-family: "Secular One", sans-serif;
+	font-family: "Silkscreen", cursive;
+}
+
+h1 {
+	font-size: 3.2em;
+	line-height: 1.1;
+	color: #ccc;
+}
